@@ -1,5 +1,4 @@
-## Zip Code Finder app with React.js
+### Zip Code Finder app made with React.js.
 
-#### [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
 
