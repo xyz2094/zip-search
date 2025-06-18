@@ -1,4 +1,4 @@
-# **Zip Code Finder 📮**
+# **📮 Zip Code Finder**
 
 A simple application built in React to search and display address information from a Brazilian zip code (CEP \- Código de Endereçamento Postal). The project uses the public [ViaCEP](https://viacep.com.br/) API to query the data.
 
