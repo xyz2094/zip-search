@@ -7,8 +7,8 @@ query the data.
 
 How to run:
 
-   > git clone https://github.com/vittordallacqua/zip-code-finder.git
-   > cd zip-code-finder
+   > git clone https://github.com/vittordallacqua/zip-search.git
+   > cd zip-search
 
    Install the dependencies:
 
