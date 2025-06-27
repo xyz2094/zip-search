@@ -9,6 +9,9 @@ How to run:
 
    > git clone https://github.com/vittordallacqua/zip-code-finder.git
    > cd zip-code-finder
+
+Install the dependencies:
+
    > npm install
    > npm start
 
