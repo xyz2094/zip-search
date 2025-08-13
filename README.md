@@ -6,24 +6,22 @@ public ViaCEP API to query the data.
 
 How to run:
 
-   ```
+   ```bash
    > git clone https://github.com/vittordallacqua/zip-search.git
    > cd zip-search
    ```
 
    Install the dependencies:
    
-   ```
+   ```bash
    > npm install
    ```
 
    Run:
 
-   ```
+   ```bash
    > npm start
    ```
 
 The application will start in development mode and will be available
-at http://localhost:3000 in your browser.
-
-This project is licensed under the MIT License.
+at ```http://localhost:3000``` in your browser.
